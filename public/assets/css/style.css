@@ -1,0 +1,13 @@
+body{
+    background-color: #d9d9d9;
+}
+table {
+    border: solid 1px black;
+}
+.container {
+    display: flex;
+}
+caption {
+    caption-side: top;
+    text-align: center;
+}
